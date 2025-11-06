@@ -54,7 +54,10 @@ Combines **modern aesthetics**, **smooth animations**, and **responsive design**
 
 ## 📸screenshot of website
 
-   <img src="./assets/img/portfolio/portt.jpg">
+   <img src="./assets/img/screenshot/127.0.0.1_5500_index.html(Nest Hub Max) (1).png">
+   <img src="./assets/img/screenshot/127.0.0.1_5500_index.html(Nest Hub Max) (2).png">
+   <img src="./assets/img/screenshot/127.0.0.1_5500_index.html(Nest Hub Max) (3).png">
+   <img src="./assets/img/screenshot/127.0.0.1_5500_index.html(Nest Hub Max) (4).png">
 
 ---
 
